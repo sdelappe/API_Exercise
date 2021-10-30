@@ -1,0 +1,15 @@
+C:\Users\sdela\OneDrive\Desktop\Repo\API_Exercise\API_Exercise\bin\Debug\netcoreapp3.1\API_Exercise.exe
+C:\Users\sdela\OneDrive\Desktop\Repo\API_Exercise\API_Exercise\bin\Debug\netcoreapp3.1\API_Exercise.deps.json
+C:\Users\sdela\OneDrive\Desktop\Repo\API_Exercise\API_Exercise\bin\Debug\netcoreapp3.1\API_Exercise.runtimeconfig.json
+C:\Users\sdela\OneDrive\Desktop\Repo\API_Exercise\API_Exercise\bin\Debug\netcoreapp3.1\API_Exercise.runtimeconfig.dev.json
+C:\Users\sdela\OneDrive\Desktop\Repo\API_Exercise\API_Exercise\bin\Debug\netcoreapp3.1\API_Exercise.dll
+C:\Users\sdela\OneDrive\Desktop\Repo\API_Exercise\API_Exercise\bin\Debug\netcoreapp3.1\API_Exercise.pdb
+C:\Users\sdela\OneDrive\Desktop\Repo\API_Exercise\API_Exercise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sdela\OneDrive\Desktop\Repo\API_Exercise\API_Exercise\obj\Debug\netcoreapp3.1\API_Exercise.csproj.AssemblyReference.cache
+C:\Users\sdela\OneDrive\Desktop\Repo\API_Exercise\API_Exercise\obj\Debug\netcoreapp3.1\API_Exercise.AssemblyInfoInputs.cache
+C:\Users\sdela\OneDrive\Desktop\Repo\API_Exercise\API_Exercise\obj\Debug\netcoreapp3.1\API_Exercise.AssemblyInfo.cs
+C:\Users\sdela\OneDrive\Desktop\Repo\API_Exercise\API_Exercise\obj\Debug\netcoreapp3.1\API_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\sdela\OneDrive\Desktop\Repo\API_Exercise\API_Exercise\obj\Debug\netcoreapp3.1\API_Exercise.csproj.CopyComplete
+C:\Users\sdela\OneDrive\Desktop\Repo\API_Exercise\API_Exercise\obj\Debug\netcoreapp3.1\API_Exercise.dll
+C:\Users\sdela\OneDrive\Desktop\Repo\API_Exercise\API_Exercise\obj\Debug\netcoreapp3.1\API_Exercise.pdb
+C:\Users\sdela\OneDrive\Desktop\Repo\API_Exercise\API_Exercise\obj\Debug\netcoreapp3.1\API_Exercise.genruntimeconfig.cache

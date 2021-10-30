@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sdela\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sdela\\.nuget\\packages"
+    ]
+  }
+}
